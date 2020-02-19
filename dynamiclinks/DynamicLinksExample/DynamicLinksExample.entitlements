@@ -4,7 +4,7 @@
 <dict>
 	<key>com.apple.developer.associated-domains</key>
 	<array>
-		<string>applinks:DYNAMIC_LINK_DOMAIN</string>
+		<string>applinks:dnartdynamiclinks.page.link</string>
 	</array>
 </dict>
 </plist>

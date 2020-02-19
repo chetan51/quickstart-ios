@@ -53,7 +53,7 @@ static NSString *const Android = @"Android";
 static NSString *const Social = @"Social Meta Tag";
 static NSString *const Other = @"Other Platform";
 
-static NSString *const DOMAIN_URI_PREFIX = @"YOUR_DOMAIN_URI_PREFIX";
+static NSString *const DOMAIN_URI_PREFIX = @"dnartdynamiclinks.page.link";
 
 @interface Section:NSObject
 @property(nonatomic, strong) NSString *name;

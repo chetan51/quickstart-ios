@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0C128783D743A8241B05836A /* Pods_DynamicLinksExampleTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DD372E7D3992DB367CBE50AA /* Pods_DynamicLinksExampleTests.framework */; };
 		106C9A341EA54E21009FD392 /* HeaderCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 106C9A331EA54E21009FD392 /* HeaderCell.swift */; };
 		106C9A3B1EA56900009FD392 /* ParamTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 106C9A391EA56900009FD392 /* ParamTableViewCell.swift */; };
 		106C9A3E1EA66CCD009FD392 /* HeaderCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 106C9A3D1EA66CCD009FD392 /* HeaderCell.m */; };
@@ -14,6 +15,7 @@
 		10734765203159BF004A66D1 /* DynamicLinksExampleSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10734764203159BF004A66D1 /* DynamicLinksExampleSwiftUITests.swift */; };
 		1073484520333BB3004A66D1 /* DynamicLinksExampleUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1073484420333BB3004A66D1 /* DynamicLinksExampleUITests.m */; };
 		10AF4D491DD3E7660096D192 /* DynamicLinksExampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 10AF4D481DD3E7660096D192 /* DynamicLinksExampleTests.m */; };
+		4C11AD75319448F940511D7C /* Pods_DynamicLinksExample.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1B88A8C0167D76AADA306901 /* Pods_DynamicLinksExample.framework */; };
 		5F5A53521ADE670C00F81DF0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F5A53511ADE670C00F81DF0 /* main.m */; };
 		5F5A53551ADE670C00F81DF0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F5A53541ADE670C00F81DF0 /* AppDelegate.m */; };
 		5F5A53581ADE670C00F81DF0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F5A53571ADE670C00F81DF0 /* ViewController.m */; };
@@ -25,6 +27,12 @@
 		5F99610B1AE0CF4F0034F503 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F9961061AE0CF4F0034F503 /* Images.xcassets */; };
 		5F99610C1AE0CF4F0034F503 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5F9961071AE0CF4F0034F503 /* LaunchScreen.xib */; };
 		5F99610D1AE0CF4F0034F503 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5F9961071AE0CF4F0034F503 /* LaunchScreen.xib */; };
+		61003ACB23FDBC0800C97E4E /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 61003ACA23FDBC0800C97E4E /* GoogleService-Info.plist */; };
+		61003ACC23FDBC0800C97E4E /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 61003ACA23FDBC0800C97E4E /* GoogleService-Info.plist */; };
+		61003ACD23FDBC0800C97E4E /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 61003ACA23FDBC0800C97E4E /* GoogleService-Info.plist */; };
+		61003ACE23FDBC0800C97E4E /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 61003ACA23FDBC0800C97E4E /* GoogleService-Info.plist */; };
+		61003ACF23FDBC0800C97E4E /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 61003ACA23FDBC0800C97E4E /* GoogleService-Info.plist */; };
+		CB1C8AE9BAFC8CB6A1A86836 /* Pods_DynamicLinksExampleSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A7FFEFB5C6BF8AAAACF70CF /* Pods_DynamicLinksExampleSwift.framework */; };
 		DE43B5C423AEBA710056B15F /* FIREGHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = DE43B5C023AEBA690056B15F /* FIREGHelper.m */; };
 		DE43B5C523AEBA760056B15F /* FIREGSignInHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = DE43B5BF23AEBA690056B15F /* FIREGSignInHelper.m */; };
 /* End PBXBuildFile section */
@@ -69,6 +77,8 @@
 		1073484620333BB3004A66D1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		10AF4D461DD3E7660096D192 /* DynamicLinksExampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DynamicLinksExampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		10AF4D481DD3E7660096D192 /* DynamicLinksExampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DynamicLinksExampleTests.m; sourceTree = "<group>"; };
+		1790389DC288E5456B75771B /* Pods-DynamicLinksExampleSwift.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DynamicLinksExampleSwift.release.xcconfig"; path = "Target Support Files/Pods-DynamicLinksExampleSwift/Pods-DynamicLinksExampleSwift.release.xcconfig"; sourceTree = "<group>"; };
+		1B88A8C0167D76AADA306901 /* Pods_DynamicLinksExample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DynamicLinksExample.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F5A534C1ADE670C00F81DF0 /* DynamicLinksExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DynamicLinksExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F5A53501ADE670C00F81DF0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5F5A53511ADE670C00F81DF0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -82,6 +92,14 @@
 		5F5A537F1ADE67D500F81DF0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		5F9961061AE0CF4F0034F503 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		5F9961071AE0CF4F0034F503 /* LaunchScreen.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LaunchScreen.xib; sourceTree = "<group>"; };
+		61003ACA23FDBC0800C97E4E /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../GoogleService-Info.plist"; sourceTree = "<group>"; };
+		652B7197CBD5B91A79CDBED5 /* Pods-DynamicLinksExampleSwift.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DynamicLinksExampleSwift.debug.xcconfig"; path = "Target Support Files/Pods-DynamicLinksExampleSwift/Pods-DynamicLinksExampleSwift.debug.xcconfig"; sourceTree = "<group>"; };
+		7A7FFEFB5C6BF8AAAACF70CF /* Pods_DynamicLinksExampleSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DynamicLinksExampleSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		95097FABC0F6A1372DB763A3 /* Pods-DynamicLinksExample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DynamicLinksExample.debug.xcconfig"; path = "Target Support Files/Pods-DynamicLinksExample/Pods-DynamicLinksExample.debug.xcconfig"; sourceTree = "<group>"; };
+		AB6D9F7C1B71A73B0BF066DB /* Pods-DynamicLinksExampleTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DynamicLinksExampleTests.release.xcconfig"; path = "Target Support Files/Pods-DynamicLinksExampleTests/Pods-DynamicLinksExampleTests.release.xcconfig"; sourceTree = "<group>"; };
+		AD8C830C05530480B4AF82F8 /* Pods-DynamicLinksExample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DynamicLinksExample.release.xcconfig"; path = "Target Support Files/Pods-DynamicLinksExample/Pods-DynamicLinksExample.release.xcconfig"; sourceTree = "<group>"; };
+		CC086174781898D1646B8905 /* Pods-DynamicLinksExampleTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DynamicLinksExampleTests.debug.xcconfig"; path = "Target Support Files/Pods-DynamicLinksExampleTests/Pods-DynamicLinksExampleTests.debug.xcconfig"; sourceTree = "<group>"; };
+		DD372E7D3992DB367CBE50AA /* Pods_DynamicLinksExampleTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DynamicLinksExampleTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE43B5BE23AEBA690056B15F /* FIREGHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FIREGHelper.h; sourceTree = "<group>"; };
 		DE43B5BF23AEBA690056B15F /* FIREGSignInHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FIREGSignInHelper.m; sourceTree = "<group>"; };
 		DE43B5C023AEBA690056B15F /* FIREGHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FIREGHelper.m; sourceTree = "<group>"; };
@@ -108,6 +126,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0C128783D743A8241B05836A /* Pods_DynamicLinksExampleTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -115,6 +134,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4C11AD75319448F940511D7C /* Pods_DynamicLinksExample.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -122,6 +142,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CB1C8AE9BAFC8CB6A1A86836 /* Pods_DynamicLinksExampleSwift.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -165,6 +186,8 @@
 				DE43B5BD23AEBA690056B15F /* TestUtils */,
 				5F5A534D1ADE670C00F81DF0 /* Products */,
 				5F9961041AE0CF4F0034F503 /* Shared */,
+				B49C97A6E795BE2B2658521F /* Pods */,
+				E224385066C124341BAE4C17 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 			wrapsLines = 0;
@@ -189,6 +212,7 @@
 				5F5A53541ADE670C00F81DF0 /* AppDelegate.m */,
 				5F5A53561ADE670C00F81DF0 /* ViewController.h */,
 				5F5A53571ADE670C00F81DF0 /* ViewController.m */,
+				61003ACA23FDBC0800C97E4E /* GoogleService-Info.plist */,
 				106C9A3C1EA66CCD009FD392 /* HeaderCell.h */,
 				106C9A3D1EA66CCD009FD392 /* HeaderCell.m */,
 				106C9A3F1EA66CE5009FD392 /* ParamTableViewCell.h */,
@@ -229,6 +253,19 @@
 			path = ../shared;
 			sourceTree = "<group>";
 		};
+		B49C97A6E795BE2B2658521F /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				95097FABC0F6A1372DB763A3 /* Pods-DynamicLinksExample.debug.xcconfig */,
+				AD8C830C05530480B4AF82F8 /* Pods-DynamicLinksExample.release.xcconfig */,
+				652B7197CBD5B91A79CDBED5 /* Pods-DynamicLinksExampleSwift.debug.xcconfig */,
+				1790389DC288E5456B75771B /* Pods-DynamicLinksExampleSwift.release.xcconfig */,
+				CC086174781898D1646B8905 /* Pods-DynamicLinksExampleTests.debug.xcconfig */,
+				AB6D9F7C1B71A73B0BF066DB /* Pods-DynamicLinksExampleTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 		DE43B5BD23AEBA690056B15F /* TestUtils */ = {
 			isa = PBXGroup;
 			children = (
@@ -240,6 +277,16 @@
 			);
 			name = TestUtils;
 			path = ../TestUtils;
+			sourceTree = "<group>";
+		};
+		E224385066C124341BAE4C17 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1B88A8C0167D76AADA306901 /* Pods_DynamicLinksExample.framework */,
+				7A7FFEFB5C6BF8AAAACF70CF /* Pods_DynamicLinksExampleSwift.framework */,
+				DD372E7D3992DB367CBE50AA /* Pods_DynamicLinksExampleTests.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -285,9 +332,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 10AF4D4D1DD3E7660096D192 /* Build configuration list for PBXNativeTarget "DynamicLinksExampleTests" */;
 			buildPhases = (
+				40245DEF87E5D77E8BDBE086 /* [CP] Check Pods Manifest.lock */,
 				10AF4D421DD3E7660096D192 /* Sources */,
 				10AF4D431DD3E7660096D192 /* Frameworks */,
 				10AF4D441DD3E7660096D192 /* Resources */,
+				528C2FFFC7A040A789B57602 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -303,9 +352,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5F5A536F1ADE670C00F81DF0 /* Build configuration list for PBXNativeTarget "DynamicLinksExample" */;
 			buildPhases = (
+				C3824B366A0755735F338A15 /* [CP] Check Pods Manifest.lock */,
 				5F5A53481ADE670C00F81DF0 /* Sources */,
 				5F5A53491ADE670C00F81DF0 /* Frameworks */,
 				5F5A534A1ADE670C00F81DF0 /* Resources */,
+				09E92FF0DE50353F665ABCA9 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -320,9 +371,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5F5A53991ADE67D500F81DF0 /* Build configuration list for PBXNativeTarget "DynamicLinksExampleSwift" */;
 			buildPhases = (
+				7E1BBAD4EB8DE82CAD030D6B /* [CP] Check Pods Manifest.lock */,
 				5F5A53751ADE67D500F81DF0 /* Sources */,
 				5F5A53761ADE67D500F81DF0 /* Frameworks */,
 				5F5A53771ADE67D500F81DF0 /* Resources */,
+				FED9961675DC36F541AA13DD /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -361,6 +414,7 @@
 					};
 					5F5A534B1ADE670C00F81DF0 = {
 						CreatedOnToolsVersion = 6.3;
+						DevelopmentTeam = 6W64ERMC79;
 						LastSwiftMigration = 0830;
 						ProvisioningStyle = Automatic;
 					};
@@ -398,6 +452,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				61003ACE23FDBC0800C97E4E /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -405,6 +460,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				61003ACF23FDBC0800C97E4E /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -412,6 +468,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				61003ACD23FDBC0800C97E4E /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -420,6 +477,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5F99610C1AE0CF4F0034F503 /* LaunchScreen.xib in Resources */,
+				61003ACB23FDBC0800C97E4E /* GoogleService-Info.plist in Resources */,
 				5F99610A1AE0CF4F0034F503 /* Images.xcassets in Resources */,
 				5F5A535B1ADE670C00F81DF0 /* Main.storyboard in Resources */,
 			);
@@ -430,12 +488,148 @@
 			buildActionMask = 2147483647;
 			files = (
 				5F99610D1AE0CF4F0034F503 /* LaunchScreen.xib in Resources */,
+				61003ACC23FDBC0800C97E4E /* GoogleService-Info.plist in Resources */,
 				5F5A539C1ADE69AA00F81DF0 /* Main.storyboard in Resources */,
 				5F99610B1AE0CF4F0034F503 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		09E92FF0DE50353F665ABCA9 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-DynamicLinksExample/Pods-DynamicLinksExample-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework",
+				"${BUILT_PRODUCTS_DIR}/PromisesObjC/FBLPromises.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleUtilities.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBLPromises.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-DynamicLinksExample/Pods-DynamicLinksExample-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		40245DEF87E5D77E8BDBE086 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-DynamicLinksExampleTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		528C2FFFC7A040A789B57602 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-DynamicLinksExampleTests/Pods-DynamicLinksExampleTests-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework",
+				"${BUILT_PRODUCTS_DIR}/PromisesObjC/FBLPromises.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleUtilities.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBLPromises.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-DynamicLinksExampleTests/Pods-DynamicLinksExampleTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7E1BBAD4EB8DE82CAD030D6B /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-DynamicLinksExampleSwift-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C3824B366A0755735F338A15 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-DynamicLinksExample-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FED9961675DC36F541AA13DD /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-DynamicLinksExampleSwift/Pods-DynamicLinksExampleSwift-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework",
+				"${BUILT_PRODUCTS_DIR}/PromisesObjC/FBLPromises.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleUtilities.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBLPromises.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-DynamicLinksExampleSwift/Pods-DynamicLinksExampleSwift-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		1073475E203159BF004A66D1 /* Sources */ = {
@@ -616,6 +810,7 @@
 		};
 		10AF4D4E1DD3E7660096D192 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = CC086174781898D1646B8905 /* Pods-DynamicLinksExampleTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -636,6 +831,7 @@
 		};
 		10AF4D4F1DD3E7660096D192 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = AB6D9F7C1B71A73B0BF066DB /* Pods-DynamicLinksExampleTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -764,6 +960,7 @@
 		};
 		5F5A53701ADE670C00F81DF0 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 95097FABC0F6A1372DB763A3 /* Pods-DynamicLinksExample.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -771,11 +968,11 @@
 				CODE_SIGN_ENTITLEMENTS = DynamicLinksExample/DynamicLinksExample.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 6W64ERMC79;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/DynamicLinksExample/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.google.firebase.quickstart.DynamicLinksExample;
+				PRODUCT_BUNDLE_IDENTIFIER = org.dnart.DynamicLinksExample;
 				PRODUCT_NAME = DynamicLinksExample;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -784,6 +981,7 @@
 		};
 		5F5A53711ADE670C00F81DF0 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = AD8C830C05530480B4AF82F8 /* Pods-DynamicLinksExample.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -791,11 +989,11 @@
 				CODE_SIGN_ENTITLEMENTS = DynamicLinksExample/DynamicLinksExample.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 6W64ERMC79;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/DynamicLinksExample/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.google.firebase.quickstart.DynamicLinksExample;
+				PRODUCT_BUNDLE_IDENTIFIER = org.dnart.DynamicLinksExample;
 				PRODUCT_NAME = DynamicLinksExample;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
@@ -803,6 +1001,7 @@
 		};
 		5F5A53951ADE67D500F81DF0 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 652B7197CBD5B91A79CDBED5 /* Pods-DynamicLinksExampleSwift.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -821,6 +1020,7 @@
 		};
 		5F5A53961ADE67D500F81DF0 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1790389DC288E5456B75771B /* Pods-DynamicLinksExampleSwift.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
